@@ -1,0 +1,287 @@
+.caption.big_black{
+			position: absolute; 
+			color: #353535; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 30px; 
+			line-height: 30px; 
+			font-family: 'Open Sans', sans-serif;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 0;														
+		}		
+
+.caption.medium_grey{
+			position: absolute; 
+			color: #888; 
+			text-shadow: none; 
+			font-weight: normal; 
+			font-size: 16px; 
+			line-height: 22px; 
+			font-family: 'Open Sans', sans-serif;
+			padding: 0px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;			
+		}
+
+.caption.medium_greenboxed{
+			position: absolute; 
+			color: #fff; 
+            background-color: #5ea600; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-size: 19px; 
+			line-height: 22px; 
+			font-family: 'Open Sans', sans-serif;
+			padding: 2px 6px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;			
+		}
+
+.caption.large_greenboxed{
+			position: absolute; 
+			color: #fff; 
+            background-color: #5ea600; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-family: 'Open Sans', sans-serif;
+			font-size: 40px; 
+			line-height: 40px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 5px 10px; 	
+		}
+		
+.caption.large_darkboxed{
+			position: absolute; 
+			color: #fff; 
+            background-color: #353535; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-family: 'Open Sans', sans-serif;
+			font-size: 40px; 
+			line-height: 40px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 5px 10px; 	
+		}
+
+.caption.very_large_greenboxed{
+			position: absolute; 
+			color: #fff; 
+            background-color: #5ea600; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-family: 'Open Sans', sans-serif;
+			font-size: 60px; 
+			line-height: 60px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 5px 10px; 	
+			letter-spacing: -2px;	
+		}
+		
+.caption.very_large_darkboxed{
+			position: absolute; 
+			color: #fff; 
+            background-color: #353535; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-family: 'Open Sans', sans-serif;
+			font-size: 60px; 
+			line-height: 60px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 5px 10px; 	
+			letter-spacing: -2px;	
+		}
+
+.caption.medium_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: normal; 
+			font-size: 16px; 
+			line-height: 22px; 
+			font-family: 'Open Sans', sans-serif;
+			padding: 0px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;			
+		}
+
+.caption.small_green{
+			position: absolute; 
+			color: #5ea600; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-size: 16px; 
+			line-height: 22px; 
+			font-family: 'Open Sans', sans-serif;
+			padding: 0px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;		
+		}	
+
+.caption.medium_green{
+			position: absolute; 
+			color: #5ea600; 
+			text-shadow: none; 
+			font-size: 27px; 
+			line-height: 27px; 
+			font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+			padding: 0px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;		
+		}
+
+.caption.textblock_grey{
+			position: absolute; 
+			color: #777; 
+			text-shadow: none; 
+			font-size: 15px; 
+			line-height: 22px; 
+
+			padding: 0px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+opacity: 0.99;	
+		}
+					
+.caption.small_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 14px; 
+			line-height: 20px; 
+			font-family: 'Open Sans', sans-serif;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}
+					
+.caption.medium_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 20px; 
+			line-height: 20px; 
+			font-family: 'Open Sans', sans-serif;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}
+					
+.caption.large_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 40px; 
+			line-height: 40px; 
+			font-family: 'Open Sans', sans-serif;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}	
+					
+.caption.very_large_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 60px; 
+			line-height: 60px; 
+			font-family: 'Open Sans', sans-serif;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+			letter-spacing: -2px;		
+		}
+					
+.caption.very_big_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 60px; 
+			line-height: 60px; 
+			font-family: Arial; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 0px 4px; 
+			padding-top: 1px;
+			background-color:#000;		
+					}	
+					
+.caption.very_big_black{
+			position: absolute; 
+			color: #353535; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 40px; 
+			line-height: 40px; 
+			font-family: 'Open Sans', sans-serif;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 0;
+					}
+					
+.caption.boxshadow{
+		-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+		-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	}
+											
+.caption.black{
+		color: #000; 
+		text-shadow: none;		
+	}	
+					
+.caption.noshadow {
+		text-shadow: none;		
+	}	
+					
+.caption a { 
+	color: #ff7302; text-shadow: none;	-webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;	 
+}			
+	
+.caption a:hover { 
+	color: #ffa902; 
+}

@@ -1,0 +1,230 @@
+@font-face
+{
+font-family: Ubuntu;
+src: url(fonts/Ubuntu-L.ttf);
+}
+
+.western-ghats-container{
+	margin-top: 12%;
+}
+.home-bottom-content{
+	font-size: 16px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 30px;
+	word-spacing: 2px;
+}
+.desc1{
+	border-left:1px solid #aaa;
+	float: right !important;
+	margin-top: 8%;
+	padding-left: 2%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: justify;
+	width: 65%;
+}
+.desc2{
+	border-right:1px solid #aaa;
+	padding-right: 2%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: justify;
+	width: 65%;
+	margin-top:9%;
+}
+.desc3{
+	border-left:1px solid #aaa;
+	float: right !important;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: justify;
+	width: 65%;
+}
+.img1{
+	margin-top: 0%;
+}
+.img2{
+	float: right !important;
+}
+.home-bottom-content .row-fluid{
+	margin-top: 5%;
+}
+.above-bottom{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+}
+.homeslider li{
+	width: 200px;
+}
+.home-container{
+	margin-top: 12%;
+}
+.contact-div{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+.contact-sub-div{
+	margin-bottom: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	width: 76%;
+}
+.contact-sub-div textarea{
+	padding: 4px 6px;
+	height: 145px;
+}
+.reach-us{
+	background-repeat: no-repeat;
+	font-size: 25px;
+	height: 50px;
+}
+.location-map{
+	background-color: #bbb;
+	border: 1px solid #bbb;
+	border-radius: 4px;
+	margin-top: 3%;
+	min-height: 200px;
+}
+.form-btns-div{
+	margin-top: 5%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.contact-form{
+	// width: 35%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.btn-sub-div{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.reset-btn{
+	margin-left: 7%;
+}
+.submit-btn{
+	margin-left: 5%;
+}
+.contact-head-address p,.contact-branch-address p{
+	color: #adadad;
+}
+.contact-here h3{
+	color: #666;
+}
+.contact-head-address, .contact-branch-address{
+	// border-right: 2px solid #dadada;
+}
+.contact-here{
+	background-repeat: no-repeat;
+	margin-top: 7%;
+}
+.popover{
+	color: #0000ff;
+	font-size: 14px;
+	width: 10%;
+}
+.about-sub{
+	margin-left: auto;
+	margin-right: auto;
+	/*margin-top: 15%;*/
+	width: 76%;
+}
+.about-left-side{
+	background-color: #ededed;
+	text-align: center;	
+}
+.we-are-container{
+	margin-top: 15%;
+}
+.about-right-side{
+	background-color: #ededed;
+	text-align: center;
+}
+.about-img{
+	/*background-color: #ededed;*/
+	background-image: url("../imgs/we-are.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	/*box-shadow: 0px 2px 5px;*/
+	margin-bottom: 5%;
+	height: 287px;
+	text-align: center;
+	width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-left-radius: 200px;
+	border-bottom-right-radius: 200px;
+}
+.footer-active{
+	/*background-image: url("../imgs/footer-link-bg.png");*/
+	background-repeat: no-repeat;
+	border-radius: 2px;
+	padding: 4px;
+	color: #999;		
+}
+.about-us-desc-div p{
+	font-size: 16px;
+	text-align: justify;
+	text-indent: 40px;
+}
+.c-text{
+	margin-top: 3%;
+	/*border: 1px solid transparent;*/ 
+}
+.ghats-content{
+	margin-right: auto;
+	margin-left: auto;
+	/*margin-top: 4%;*/
+	width: 85%;
+	text-align: justify;
+}
+.ghats-content h3{
+	margin-left: auto;
+	margin-right: auto;
+	/*text-align: center;*/
+	border-bottom: 1px solid;
+	font-weight: bold;
+}
+.ghats-content div{
+	margin-top: 3%;
+}
+.western-slider-sub{
+	margin-left: auto;
+	margin-right: auto;
+	/*width: 57%;*/
+}
+.western-ghats-slider{
+	margin-top: 8%;
+}
+.western-sliders{
+	width: 61%;
+	padding-left: 4%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid;
+	height: 200px;
+	padding-top: 4%;
+	border-radius: 10px;
+}
+.nameL{
+	display: inline-block;
+	margin-left: 3%;
+	color: red;
+}
+.im-star{
+	display: inline-block;
+	color: red;
+}
+.error-border{
+	border: 1px solid red !important;
+}
